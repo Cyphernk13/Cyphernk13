@@ -1,9 +1,6 @@
 <!-- Profile README for Cyphernk13 -->
 
 <h1 align="center">Hi, I'm Cyphernk13 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+love+coding+and+building+cool+things!;Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 ---
 
