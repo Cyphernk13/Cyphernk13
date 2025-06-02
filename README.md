@@ -53,11 +53,19 @@
 ### 📊 GitHub Stats
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyphernk13&show_icons=true&theme=radical" width="47%" alt="Cyphernk13's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyphernk13&show_icons=true&theme=radical" width="47%" alt="Cyphernk13's GitHub stats" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyphernk13&layout=compact&theme=radical" width="36%" alt="Top Languages" />
 </p>
 <p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyphernk13&theme=radical" width="47%" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/ujjxwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasanna.bhatt_" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ujjawal-upadhyay-862266228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna bhat" height="30" width="40" /></a>
 </p>
 
 ---
