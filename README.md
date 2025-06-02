@@ -8,7 +8,7 @@
 
 - 💻 I love coding and building cool things.
 - 🌱 Currently exploring the depths of **Google Cloud & AWS**
-- 📫 Reach me at: [upadhyayujjawal2004@gmail.com](mailto:upadhyayujjawal2004@gmail.com)
+- 📫 Reach me at: [ujjawalupadhyay2004@gmail.com](mailto:upadhyayujjawal2004@gmail.com)
 
 ---
 
