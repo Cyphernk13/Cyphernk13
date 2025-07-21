@@ -56,9 +56,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Cyphernk13&show_icons=true&theme=radical" width="47%" alt="Cyphernk13's GitHub stats" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyphernk13&layout=compact&theme=radical" width="36%" alt="Top Languages" />
 </p>
-<p align="">
+<!-- <p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyphernk13&theme=radical" width="47%" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
