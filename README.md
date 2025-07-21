@@ -9,7 +9,6 @@
 - 🎓 I am a B.Tech undergrad student at IIT Jodhpur.
 - 💻 I love coding and building cool things.
 - 🌱 Currently exploring the depths of **Google Cloud & AWS**
-- 📫 Reach me at: [ujjawalupadhyay2004@gmail.com](mailto:upadhyayujjawal2004@gmail.com)
 
 ---
 
