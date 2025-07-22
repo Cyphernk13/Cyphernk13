@@ -9,11 +9,6 @@
     A B.Tech student at IIT Jodhpur, passionate about building for the web and diving into the cloud.
   </p>
   
-  <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=Cyphernk13&style=flat-square&color=blueviolet" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=Cyphernk13&style=flat-square&color=blueviolet" alt="Profile views"/>
-    </a>
-  </p>
 </div>
 
 ---
