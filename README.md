@@ -30,45 +30,51 @@ I'm always keen on learning new things. Here's a snapshot of my current tech sta
   <tr>
     <td align="center" width="96">
       <a href="#-languages">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="C" />
       </a>
-      <br>Languages
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#-tools--others">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Git" />
+      </a>
+      <br>Azure
     </td>
     <td align="center" width="96">
       <a href="#-frontend-development">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
       </a>
-      <br>Frontend
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#-backend-development">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       </a>
-      <br>Backend
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#-database">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" alt="MongoDB" />
       </a>
-      <br>Database
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#-cloud--devops">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
       </a>
-      <br>Cloud/DevOps
+      <br>GCP
     </td>
     <td align="center" width="96">
-      <a href="#-tools--others">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <a href="#-cloud--devops">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="GCP" />
       </a>
-      <br>Tools
+      <br>Python
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>Click to expand all skills</b></summary>
 
 #### 👨‍💻 Languages
 <p align="left">
