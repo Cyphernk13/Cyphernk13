@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Cyphernk13">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdtcnU3YW13aXJxb254cnJ2bDU3ZTZndWJvNW5oZTY4bDF5cTZ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
+    <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding GIF" width="400"/>
   </a>
   
   <h1 align="center">Hey there! I'm Cypher 👋🏻</h1>
